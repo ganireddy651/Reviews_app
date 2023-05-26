@@ -63,3 +63,25 @@ body {
   text-align: center;
   font-family: 'roboto';
 }
+@media (max-width: 576px) {
+  .discription {
+    font-size: 14px;
+  }
+  .review-container {
+    width: 60%;
+  }
+  .user-name {
+    font-size: 15px;
+    font-family: 'Bree Serif';
+  }
+  .custom-image {
+    width: 80px;
+    height: 80px;
+  }
+  .company-name {
+    font-weight: 600;
+  }
+  .heading {
+    padding-top: 15px;
+  }
+}
